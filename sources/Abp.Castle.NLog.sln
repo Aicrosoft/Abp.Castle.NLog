@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2036
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "sources", "sources", "{F7706BD6-0919-4FEB-8726-33A9FA1F1364}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Abp.Castle.NLog", "Abp.Castle.NLog\Abp.Castle.NLog.csproj", "{AB185E92-D179-47F2-AFF2-F9B2108D999D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AB185E92-D179-47F2-AFF2-F9B2108D999D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB185E92-D179-47F2-AFF2-F9B2108D999D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB185E92-D179-47F2-AFF2-F9B2108D999D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB185E92-D179-47F2-AFF2-F9B2108D999D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{AB185E92-D179-47F2-AFF2-F9B2108D999D} = {F7706BD6-0919-4FEB-8726-33A9FA1F1364}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FC256572-1AB1-484F-9ECE-1D39A40F8622}
+	EndGlobalSection
+EndGlobal
