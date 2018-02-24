@@ -1,0 +1,25 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.0</TargetFramework>
+    <Description>Abp的NLog日志输出模块。</Description>
+    <Copyright>Copyright © risesoft.org</Copyright>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <PackageTags>RiseSoft,Abp,NLog,Log</PackageTags>
+    <RootNamespace>Abp</RootNamespace>
+    <PackageLicenseUrl>https://github.com/Rise-Soft/Abp.Castle.NLog/blob/master/LICENSE</PackageLicenseUrl>
+    <RepositoryUrl>https://github.com/Rise-Soft/Abp.Castle.NLog</RepositoryUrl>
+    <RepositoryType>git</RepositoryType>
+    <PackageReleaseNotes>Abp的NLog日志输出模块。</PackageReleaseNotes>
+    <Version>3.4.0</Version>
+    <PackageProjectUrl>https://github.com/Rise-Soft/Abp.Castle.NLog</PackageProjectUrl>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Abp" Version="3.4.0" />
+    <PackageReference Include="Castle.Core" Version="4.2.1" />
+    <PackageReference Include="Castle.LoggingFacility" Version="4.1.0" />
+    <PackageReference Include="NLog" Version="4.5.0-rc06" />
+  </ItemGroup>
+
+</Project>
