@@ -12,3 +12,6 @@ Abp的NLog日志输出模块。
 
 好了，其它的不用动了了。
 
+### 参考
+1. https://www.cnblogs.com/donaldtdz/p/8213440.html
+
