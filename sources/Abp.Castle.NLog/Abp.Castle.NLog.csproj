@@ -5,7 +5,7 @@
     <Description>Abp的NLog日志输出模块。</Description>
     <Copyright>Copyright © risesoho.com</Copyright>
     <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
-    <PackageTags>RiseSoft,Abp,NLog,Log</PackageTags>
+    <PackageTags>RiseSoho,RiseSoft,Abp,NLog,Log</PackageTags>
     <RootNamespace>Abp</RootNamespace>
     <PackageLicenseUrl>https://github.com/RiseSoho/Abp.Castle.NLog/blob/master/LICENSE</PackageLicenseUrl>
     <RepositoryUrl>https://github.com/RiseSoho/Abp.Castle.NLog</RepositoryUrl>
