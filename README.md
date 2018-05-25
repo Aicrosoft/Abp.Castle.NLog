@@ -1,8 +1,27 @@
+![logo]
+
 # Abp.Castle.NLog
 Abp的NLog日志输出模块。
 
+----------------------
+![license]
 
-## 使用方法
+## Nuget Packages ##         
+|Package|Status|
+|:------|:-----:|
+|Abp.Castle.NLog|[![NuGet version](https://badge.fury.io/nu/Abp.Castle.NLog.svg)](https://badge.fury.io/nu/Abp.Castle.NLog)|
+
+
+
+[json]: https://www.nuget.org/packages/Newtonsoft.Json/ "Newtonsoft.Json"
+[icon]: ./doc/icon48.png "Rbp icon"
+[logo]: ./doc/icon128.png "Rbp Logo"
+[license]: https://img.shields.io/github/license/RiseSoho/RiseNetBoilerplate.svg "MIT license"
+
+
+----------------------
+
+### 使用方法
 > - 使用Nuget管理卸载Abp.Castle.Log4Net
 > - 使用Nuget安装Abp.Castle.NLog
 > - 配置[nlog.config](doc/nlog.config) 文件，可下载直接使用

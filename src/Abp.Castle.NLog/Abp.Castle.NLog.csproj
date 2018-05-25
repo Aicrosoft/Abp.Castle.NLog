@@ -7,7 +7,7 @@
     <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
     <PackageTags>RiseSoho,RiseSoft,Abp,NLog,Log</PackageTags>
     <RootNamespace>Abp</RootNamespace>
-    <PackageLicenseUrl>https://github.com/RiseSoho/Abp.Castle.NLog/blob/master/LICENSE</PackageLicenseUrl>
+    <PackageLicenseUrl>https://github.com/RiseSoho/Abp.Castle.NLog/blob/dev/LICENSE</PackageLicenseUrl>
     <RepositoryUrl>https://github.com/RiseSoho/Abp.Castle.NLog</RepositoryUrl>
     <RepositoryType>git</RepositoryType>
     <PackageReleaseNotes>Abp的NLog日志输出模块。</PackageReleaseNotes>
@@ -15,7 +15,7 @@
     <PackageProjectUrl>https://github.com/RiseSoho/Abp.Castle.NLog</PackageProjectUrl>
     <Authors>atwind</Authors>
     <Company>RiseSoho.com</Company>
-    <PackageIconUrl>https://www.risesoho.com/projects/Abp.Castle.NLog/icon/logo.png</PackageIconUrl>
+    <PackageIconUrl>https://github.com/RiseSoho/Abp.Castle.NLog/raw/dev/doc/icon128.png</PackageIconUrl>
   </PropertyGroup>
 
   <ItemGroup>
