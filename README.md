@@ -5,6 +5,7 @@ Abp的NLog日志输出模块。
 
 ----------------------
 ![license]
+[![LICENSE](https://img.shields.io/badge/license-Anti%20996-blue.svg)](https://github.com/996icu/996.ICU/blob/master/LICENSE)
 
 ## Nuget Packages ##         
 |Package|Status|
@@ -17,6 +18,7 @@ Abp的NLog日志输出模块。
 [icon]: ./doc/icon48.png "Rbp icon"
 [logo]: ./doc/icon128.png "Rbp Logo"
 [license]: https://img.shields.io/github/license/RiseSoho/RiseNetBoilerplate.svg "MIT license"
+
 
 
 ----------------------
