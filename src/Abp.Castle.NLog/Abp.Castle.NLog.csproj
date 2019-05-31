@@ -12,7 +12,7 @@ Abp的NLog日志输出模块。</Description>
     <RepositoryUrl>https://github.com/RiseSoho/Abp.Castle.NLog</RepositoryUrl>
     <RepositoryType>git</RepositoryType>
     <PackageReleaseNotes>Abp的NLog日志输出模块。</PackageReleaseNotes>
-    <Version>4.6.0</Version>
+    <Version>4.6.0.1</Version>
     <PackageProjectUrl>https://github.com/RiseSoho/Abp.Castle.NLog</PackageProjectUrl>
     <Authors>atwind</Authors>
     <Company>RiseSoho.com</Company>

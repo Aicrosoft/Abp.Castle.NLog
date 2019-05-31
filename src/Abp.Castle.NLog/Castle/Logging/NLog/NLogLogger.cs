@@ -22,6 +22,8 @@ namespace Abp.Castle.Logging.NLog
         {
         }
 
+        public bool IsTraceEnabled => Logger.IsEnabled(NLogCore.LogLevel.Trace);
+
         public bool IsDebugEnabled => Logger.IsEnabled(NLogCore.LogLevel.Debug);
 
         public bool IsErrorEnabled => Logger.IsEnabled(NLogCore.LogLevel.Error);
@@ -246,7 +248,6 @@ namespace Abp.Castle.Logging.NLog
         {
             Logger.Warn(exception, formatProvider, format, args);
         }
-
-        public bool IsTraceEnabled { get; }
+       
     }
 }
